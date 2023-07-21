@@ -15,7 +15,7 @@ Objectif : Convertir une image généré par IA en un objet découpable avec une
 ## Travail sur l'image
 * L'image a été prédécoupé avec paint.net
 * Puis transformer en plusieurs couche correspondant à une zone à découper
-![Image Vectoriel](Creature_final.svg)
+![Image Vectoriel](Creature_Final.svg)
 
 ## Vérification du résultat
 Afin de vérifier si le résultat sera correcte, chaque couche est importé en SVG dans fusion 360
