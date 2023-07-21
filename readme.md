@@ -2,13 +2,15 @@
 
 Objectif : Convertir une image généré par IA en un objet découpable avec une machine de découpe laser
 
+## [⌛Version 1](https://github.com/usini/creatures_ia_to_laser_cuter/tree/v1)
+
 ## Génération
 * Générateur : https://nightcafe.studio
 * Algorithme : SDXL 0.9
 * Seed: 50379071
 * Prompt : laser cut, svg, intrigate, one color, top view, fantasy creature, cute, schematics, magic, forest
 
-![Image IA](generated.jpg)
+![Image IA](references/generated.jpg)
 
 ## Travail sur l'image
 * L'image a été prédécoupé avec paint.net
@@ -34,4 +36,3 @@ Afin de vérifier si le résultat sera correcte, chaque couche est importé en S
 
 ## Yeux / Nez
 Les yeux et les nez seront réalisés en 3D puis imprimés en résine.
-
