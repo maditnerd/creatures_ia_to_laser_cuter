@@ -3,6 +3,7 @@
 Objectif : Convertir une image généré par IA en un objet découpable avec une machine de découpe laser
 
 ## [⌛Version 1](https://github.com/usini/creatures_ia_to_laser_cuter/tree/v1)
+## [⌛Version 2](https://github.com/usini/creatures_ia_to_laser_cuter/tree/v2)
 
 ## Génération
 * Générateur : https://nightcafe.studio
@@ -15,7 +16,7 @@ Objectif : Convertir une image généré par IA en un objet découpable avec une
 ## Travail sur l'image
 * L'image a été prédécoupé avec paint.net
 * Puis transformer en plusieurs couche correspondant à une zone à découper
-![Image Vectoriel](Creature_Final.svg)
+![Image Vectoriel](creatures.svg)
 
 ## Vérification du résultat
 Afin de vérifier si le résultat sera correcte, chaque couche est importé en SVG dans fusion 360
@@ -24,7 +25,7 @@ Afin de vérifier si le résultat sera correcte, chaque couche est importé en S
 
 ![Image Fusion360](creatures_fusion360.png)
 
-## Préparation du fichier 
+## Préparation du fichier
 * Chaque partie doit être préparer pour la découpe laser afin d'optimiser l'espace utilisé
 
 ## Découpe
