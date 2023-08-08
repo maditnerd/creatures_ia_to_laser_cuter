@@ -5,6 +5,7 @@ Objectif : Convertir une image généré par IA en un objet découpable avec une
 ## [⌛Version 1](https://github.com/usini/creatures_ia_to_laser_cuter/tree/v1)
 ## [⌛Version 2](https://github.com/usini/creatures_ia_to_laser_cuter/tree/v2)
 ## [⌛Version 3](https://github.com/usini/creatures_ia_to_laser_cuter/tree/v3)
+## [⌛Version 4](https://github.com/usini/creatures_ia_to_laser_cuter/tree/v4)
 
 ## Génération
 * Générateur : https://nightcafe.studio
